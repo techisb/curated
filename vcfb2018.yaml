@@ -4,7 +4,7 @@ events:
     local_time: 10:00
     url: http://vcfb.de/2018/
     organizer: Abteilung-für-Redundanz-Abteilung e. V.
-    venue
+    venue:
       address_1: Deutschen Technikmuseum Berlin, Möckernstr. 26, Berlin
       lon: 52.495195
       lat: 13.3752503
@@ -13,7 +13,7 @@ events:
     local_time: 10:00
     url: http://vcfb.de/2018/
     organizer: Abteilung-für-Redundanz-Abteilung e. V.
-    venue
+    venue:
       address_1: Deutschen Technikmuseum Berlin, Möckernstr. 26, Berlin
       lon: 52.495195
       lat: 13.3752503

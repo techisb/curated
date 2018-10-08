@@ -1,19 +1,18 @@
-events:
-  - name: Vintage Computing Festival Berlin (VCFB) 2018
-    date: 13-10-2018
-    time: 10:00
-    url: http://vcfb.de/2018/
-    organizer: Abteilung-für-Redundanz-Abteilung e. V.
-    venue:
-      address: Deutschen Technikmuseum Berlin, Möckernstr. 26, Berlin
-      lon: 52.495195
-      lat: 13.3752503
-  - name: Vintage Computing Festival Berlin (VCFB) 2018
-    date: 14-10-2018      
-    time: 10:00
-    url: http://vcfb.de/2018/
-    organizer: Abteilung-für-Redundanz-Abteilung e. V.
-    venue:
-      address: Deutschen Technikmuseum Berlin, Möckernstr. 26, Berlin
-      lon: 52.495195
-      lat: 13.3752503
+- name: Vintage Computing Festival Berlin (VCFB) 2018
+  date: 13-10-2018
+  time: 10:00
+  url: http://vcfb.de/2018/
+  organizer: Abteilung-für-Redundanz-Abteilung e. V.
+  venue:
+    address: Deutschen Technikmuseum Berlin, Möckernstr. 26, Berlin
+    lon: 52.495195
+    lat: 13.3752503
+- name: Vintage Computing Festival Berlin (VCFB) 2018
+  date: 14-10-2018      
+  time: 10:00
+  url: http://vcfb.de/2018/
+  organizer: Abteilung-für-Redundanz-Abteilung e. V.
+  venue:
+    address: Deutschen Technikmuseum Berlin, Möckernstr. 26, Berlin
+    lon: 52.495195
+    lat: 13.3752503

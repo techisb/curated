@@ -1,5 +1,5 @@
 - name: OpenStack Hackathon Berlin, Day 1
-  date: "10-11-2018"
+  date: "2018-11-10"
   time: "10:00"
   url: https://openstack-hackathon-berlin.eventbrite.com
   organizer: OpenStack-Community
@@ -8,7 +8,7 @@
     lat: 52.4963474
     lon: 13.358155
 - name: OpenStack Hackathon Berlin, Day 2
-  date: "11-11-2018"
+  date: "2018-11-11"
   time: "10:00"
   url: https://openstack-hackathon-berlin.eventbrite.com
   organizer: OpenStack-Community

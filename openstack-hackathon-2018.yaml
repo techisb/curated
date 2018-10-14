@@ -4,7 +4,8 @@
   url: https://openstack-hackathon-berlin.eventbrite.com
   organizer: OpenStack-Community
   venue:
-    address: Hubraum, Winterfeldstr. 21, Berlin
+    name: Hubraum
+    address: Winterfeldstr. 21, Berlin
     lat: 52.4963474
     lon: 13.358155
 - name: OpenStack Hackathon Berlin, Day 2
@@ -13,6 +14,7 @@
   url: https://openstack-hackathon-berlin.eventbrite.com
   organizer: OpenStack-Community
   venue:
-    address: Hubraum, Winterfeldstr. 21, Berlin
+    name: Hubraum
+    address: Winterfeldstr. 21, Berlin
     lat: 52.4963474
     lon: 13.358155

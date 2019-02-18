@@ -1,0 +1,22 @@
+- name: Haskell 2019, Day 1 
+  date: "2019-08-22"
+  time: "10:00"
+  endtime: "18:00"
+  url: https://icfp19.sigplan.org/home/haskellsymp-2019
+  organizer: ICFP 2019
+  venue:
+    name: Hotel Scandic Berlin Potsdamer Platz
+    address: Gabriele-Tergit-Promenade 19, 10963 Berlin
+    lat: 52.5043487
+    lon: 13.3728783
+- name: Haskell 2019, Day 2
+  date: "2019-08-23"
+  time: "10:00"
+  endtime: "18:00"
+  url: https://icfp19.sigplan.org/home/haskellsymp-2019
+  organizer: ICFP 2019
+  venue:
+    name: Hotel Scandic Berlin Potsdamer Platz
+    address: Gabriele-Tergit-Promenade 19, 10963 Berlin
+    lat: 52.5043487
+    lon: 13.3728783
